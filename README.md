@@ -1,8 +1,6 @@
 ## Hi there , My name is Parul Raghuwanshi👋
 
-**ParulRaghuwanshi/ParulRaghuwanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web technology
 - 🌱 I’m currently learning Artificial Intelligence
@@ -10,6 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Artificial Intelligence
 - 💬 Ask me about frontend
 - 📫 How to reach me: https://www.linkedin.com/in/parul-raghuwanshi-b50318229/
+-                     raghuwanshiparul04@gmail.com
 - 😄 Pronouns:she/Her
   
 
